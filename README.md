@@ -1,4 +1,4 @@
-![logo](https://github.com/Sebastine-Atemnkeng/Sebastine-Atemnkeng/blob/main/DevSecOps2.jpg)
+![logo](https://raw.githubusercontent.com/Sebastine-Atemnkeng/Sebastine-Atemnkeng/main/Integration%20%202.jpg)
 <h1 align="center">Hi 👋, I'm Sebastine Atemnkeng</h1>
 <h3 align="center">Highly motivated and experienced Cloud DevOps/DevSecOps Engineer with a strong background in automation, continuous integration and deployment, and cloud infrastructure. Possess excellent technical skills and ability to effectively communicate and collaborate with cross-functional teams.</h3>
 
