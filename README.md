@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Google Cybersecurity Certificate.](https://github.com/Sebastine-Atemnkeng/Cybersecurity-Domain)
 
-- 🌱 I’m currently learning **Google cybersecurity Professional Certificate**
+- 🌱 I’m currently learning **Google Cybersecurity Professional Certificate**
 
 - 📫 How to reach me **atemnkengs@gmail.com**
 
