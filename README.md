@@ -1,14 +1,15 @@
 ![logo](https://raw.githubusercontent.com/Sebastine-Atemnkeng/Sebastine-Atemnkeng/main/Integration%20%202.jpg)
 <h1 align="center">Hi 👋, I'm Sebastine Atemnkeng</h1>
-<h3 align="center">Highly motivated and experienced Cloud DevOps/DevSecOps Engineer with a strong background in automation, continuous integration and deployment, and cloud infrastructure. Possess excellent technical skills and ability to effectively communicate and collaborate with cross-functional teams.</h3>
+<h3 align="center">An experienced Cloud DevOps/Security Analyst with a strong background in automation, CI/CD, cloud infrastructure and Cybersecurity. I am enthusiastic, passionate, driven about Devops, cybersecurity, information security and enjoy developing, creating, contributing to solutions that can positively impact an organization and the people it serves. 
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastine-atemnkeng&label=Profile%20views&color=0e75b6&style=flat" alt="sebastine-atemnkeng" /> </p>
 
-- 🔭 I’m currently working on [DevSecOps with Github Actions.](https://github.com/Sebastine-Atemnkeng/DevSecOps-With-Github-Actions)
+- 🔭 I’m currently working on [Google Cybersecurity Certificate.](https://github.com/Sebastine-Atemnkeng/Cybersecurity-Domain)
 
-- 🌱 I’m currently learning **Azure DevOps**
+- 🌱 I’m currently learning **Google cybersecurity Professional Certificate**
 
 - 📫 How to reach me **atemnkengs@gmail.com**
 
